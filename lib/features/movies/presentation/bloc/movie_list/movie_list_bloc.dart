@@ -23,10 +23,13 @@ class MovieListBloc extends Bloc<MovieListEvent, MovieListState> {
   ) async {
     _page = 0;
     emit(const MovieListLoading());
+    await Future.delayed(Duration(seconds: 2));
     try {
       final movies = await _getMoviesPage(_page, _pageSize);
       _page = 1;
-      emit(MovieListLoaded(movies: movies, hasMore: movies.length == _pageSize));
+      emit(
+        MovieListLoaded(movies: movies, hasMore: movies.length == _pageSize),
+      );
     } catch (e) {
       emit(MovieListError(e.toString()));
     }
@@ -38,10 +41,13 @@ class MovieListBloc extends Bloc<MovieListEvent, MovieListState> {
   ) async {
     _page = 0;
     emit(const MovieListLoading());
+    await Future.delayed(Duration(seconds: 2));
     try {
       final movies = await _getMoviesPage(_page, _pageSize);
       _page = 1;
-      emit(MovieListLoaded(movies: movies, hasMore: movies.length == _pageSize));
+      emit(
+        MovieListLoaded(movies: movies, hasMore: movies.length == _pageSize),
+      );
     } catch (e) {
       emit(MovieListError(e.toString()));
     }
@@ -52,17 +58,22 @@ class MovieListBloc extends Bloc<MovieListEvent, MovieListState> {
     Emitter<MovieListState> emit,
   ) async {
     final current = state;
-    if (current is! MovieListLoaded || current.isLoadingMore || !current.hasMore) {
+    if (current is! MovieListLoaded ||
+        current.isLoadingMore ||
+        !current.hasMore) {
       return;
     }
     emit(current.copyWith(isLoadingMore: true));
+    await Future.delayed(Duration(seconds: 2));
     try {
       final more = await _getMoviesPage(_page, _pageSize);
       _page++;
-      emit(MovieListLoaded(
-        movies: [...current.movies, ...more],
-        hasMore: more.length == _pageSize,
-      ));
+      emit(
+        MovieListLoaded(
+          movies: [...current.movies, ...more],
+          hasMore: more.length == _pageSize,
+        ),
+      );
     } catch (_) {
       emit(current.copyWith(isLoadingMore: false));
     }
