@@ -1,0 +1,557 @@
+[
+    {
+        "id": 1,
+        "title": "Midnight Escape",
+        "overview": "A former detective uncovers a dangerous conspiracy after witnessing a murder on the last train home.",
+        "release_date": "2023-01-14",
+        "vote_average": 7.8,
+        "runtime": 118,
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie1/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop1/1280/720"
+    },
+    {
+        "id": 2,
+        "title": "Ocean of Stars",
+        "overview": "A young astronaut joins a mission to save Earth from extinction.",
+        "release_date": "2022-06-20",
+        "vote_average": 8.4,
+        "runtime": 132,
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie2/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop2/1280/720"
+    },
+    {
+        "id": 3,
+        "title": "Laugh Till Dawn",
+        "overview": "Two best friends accidentally become internet celebrities overnight.",
+        "release_date": "2021-11-02",
+        "vote_average": 6.9,
+        "runtime": 101,
+        "genres": [
+            "Comedy"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie3/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop3/1280/720"
+    },
+    {
+        "id": 4,
+        "title": "Broken Kingdom",
+        "overview": "A warrior princess fights to reclaim her homeland from a ruthless emperor.",
+        "release_date": "2020-09-10",
+        "vote_average": 7.5,
+        "runtime": 140,
+        "genres": [
+            "Fantasy",
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie4/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop4/1280/720"
+    },
+    {
+        "id": 5,
+        "title": "Silent Horizon",
+        "overview": "A stranded pilot survives in an abandoned Arctic station.",
+        "release_date": "2019-12-18",
+        "vote_average": 7.2,
+        "runtime": 110,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie5/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop5/1280/720"
+    },
+    {
+        "id": 6,
+        "title": "Digital Hearts",
+        "overview": "A software engineer falls in love with an evolving AI assistant.",
+        "release_date": "2024-02-09",
+        "vote_average": 8.1,
+        "runtime": 124,
+        "genres": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie6/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop6/1280/720"
+    },
+    {
+        "id": 7,
+        "title": "Last Summer Ride",
+        "overview": "A group of teenagers embark on a life-changing road trip.",
+        "release_date": "2022-08-11",
+        "vote_average": 7.0,
+        "runtime": 105,
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie7/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop7/1280/720"
+    },
+    {
+        "id": 8,
+        "title": "Shadow Protocol",
+        "overview": "An elite spy uncovers corruption within his own agency.",
+        "release_date": "2021-05-28",
+        "vote_average": 7.9,
+        "runtime": 129,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie8/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop8/1280/720"
+    },
+    {
+        "id": 9,
+        "title": "Garden of Memories",
+        "overview": "An elderly woman revisits her childhood village after decades away.",
+        "release_date": "2018-03-15",
+        "vote_average": 8.0,
+        "runtime": 96,
+        "genres": [
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie9/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop9/1280/720"
+    },
+    {
+        "id": 10,
+        "title": "Velocity Rush",
+        "overview": "Street racers compete in a dangerous underground tournament.",
+        "release_date": "2020-07-30",
+        "vote_average": 6.8,
+        "runtime": 114,
+        "genres": [
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie10/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop10/1280/720"
+    },
+    {
+        "id": 11,
+        "title": "Whispers in Rain",
+        "overview": "A journalist investigates disappearances in a remote town.",
+        "release_date": "2023-10-05",
+        "vote_average": 7.6,
+        "runtime": 121,
+        "genres": [
+            "Mystery",
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie11/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop11/1280/720"
+    },
+    {
+        "id": 12,
+        "title": "Infinite Tomorrow",
+        "overview": "Scientists discover a portal that reveals glimpses of the future.",
+        "release_date": "2024-01-19",
+        "vote_average": 8.3,
+        "runtime": 137,
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie12/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop12/1280/720"
+    },
+    {
+        "id": 13,
+        "title": "The Crimson Blade",
+        "overview": "A legendary swordsman returns from exile to defend his village.",
+        "release_date": "2019-04-12",
+        "vote_average": 7.7,
+        "runtime": 126,
+        "genres": [
+            "Action",
+            "Historical"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie13/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop13/1280/720"
+    },
+    {
+        "id": 14,
+        "title": "Candy Street",
+        "overview": "A struggling baker opens a magical dessert shop.",
+        "release_date": "2021-02-14",
+        "vote_average": 6.7,
+        "runtime": 99,
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie14/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop14/1280/720"
+    },
+    {
+        "id": 15,
+        "title": "Dark Water Files",
+        "overview": "Activists uncover illegal experiments beneath the ocean.",
+        "release_date": "2022-09-01",
+        "vote_average": 7.4,
+        "runtime": 116,
+        "genres": [
+            "Thriller",
+            "Adventure"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie15/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop15/1280/720"
+    },
+    {
+        "id": 16,
+        "title": "Beyond the Sky",
+        "overview": "A teenage inventor builds a machine capable of touching the clouds.",
+        "release_date": "2020-12-25",
+        "vote_average": 8.2,
+        "runtime": 112,
+        "genres": [
+            "Family",
+            "Adventure"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie16/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop16/1280/720"
+    },
+    {
+        "id": 17,
+        "title": "Neon District",
+        "overview": "A hacker fights against a corrupt megacorporation in a cyberpunk city.",
+        "release_date": "2023-06-22",
+        "vote_average": 8.5,
+        "runtime": 145,
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie17/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop17/1280/720"
+    },
+    {
+        "id": 18,
+        "title": "Moonlight Café",
+        "overview": "A small café becomes a meeting point for strangers seeking hope.",
+        "release_date": "2018-08-17",
+        "vote_average": 7.1,
+        "runtime": 104,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie18/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop18/1280/720"
+    },
+    {
+        "id": 19,
+        "title": "The Forgotten Code",
+        "overview": "A programmer discovers encrypted files linked to a cyber attack.",
+        "release_date": "2024-04-08",
+        "vote_average": 7.9,
+        "runtime": 128,
+        "genres": [
+            "Thriller",
+            "Tech"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie19/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop19/1280/720"
+    },
+    {
+        "id": 20,
+        "title": "Golden Arena",
+        "overview": "An underdog fighter enters an international martial arts tournament.",
+        "release_date": "2021-07-16",
+        "vote_average": 7.3,
+        "runtime": 119,
+        "genres": [
+            "Action",
+            "Sports"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie20/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop20/1280/720"
+    },
+    {
+        "id": 21,
+        "title": "Crystal Planet",
+        "overview": "Explorers land on a mysterious planet filled with glowing crystals.",
+        "release_date": "2022-05-18",
+        "vote_average": 8.0,
+        "runtime": 130,
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie21/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop21/1280/720"
+    },
+    {
+        "id": 22,
+        "title": "Burning Skies",
+        "overview": "Pilots battle through a global aerial conflict.",
+        "release_date": "2020-11-11",
+        "vote_average": 7.2,
+        "runtime": 122,
+        "genres": [
+            "War",
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie22/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop22/1280/720"
+    },
+    {
+        "id": 23,
+        "title": "City of Echoes",
+        "overview": "A musician discovers hidden messages in abandoned subway tunnels.",
+        "release_date": "2019-06-08",
+        "vote_average": 7.5,
+        "runtime": 107,
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie23/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop23/1280/720"
+    },
+    {
+        "id": 24,
+        "title": "Parallel Lives",
+        "overview": "Two strangers realize they are living mirrored versions of the same life.",
+        "release_date": "2024-03-02",
+        "vote_average": 8.1,
+        "runtime": 133,
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie24/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop24/1280/720"
+    },
+    {
+        "id": 25,
+        "title": "Frozen River",
+        "overview": "A rescue team races against time during a deadly snowstorm.",
+        "release_date": "2021-01-29",
+        "vote_average": 7.0,
+        "runtime": 111,
+        "genres": [
+            "Adventure",
+            "Thriller"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie25/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop25/1280/720"
+    },
+    {
+        "id": 26,
+        "title": "The Last Melody",
+        "overview": "A retired pianist returns to perform one final concert.",
+        "release_date": "2018-10-10",
+        "vote_average": 8.4,
+        "runtime": 98,
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie26/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop26/1280/720"
+    },
+    {
+        "id": 27,
+        "title": "Iron Hunters",
+        "overview": "Mercenaries hunt rogue machines across a dystopian wasteland.",
+        "release_date": "2023-09-09",
+        "vote_average": 7.8,
+        "runtime": 139,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie27/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop27/1280/720"
+    },
+    {
+        "id": 28,
+        "title": "Summer in Venice",
+        "overview": "Two travelers meet unexpectedly during a summer festival in Italy.",
+        "release_date": "2022-04-04",
+        "vote_average": 6.9,
+        "runtime": 103,
+        "genres": [
+            "Romance"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie28/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop28/1280/720"
+    },
+    {
+        "id": 29,
+        "title": "Ghost Frequency",
+        "overview": "A late-night radio host receives calls from the dead.",
+        "release_date": "2020-10-31",
+        "vote_average": 7.3,
+        "runtime": 115,
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie29/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop29/1280/720"
+    },
+    {
+        "id": 30,
+        "title": "Wild Frontier",
+        "overview": "Settlers struggle to survive in a lawless frontier town.",
+        "release_date": "2019-02-22",
+        "vote_average": 7.6,
+        "runtime": 124,
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie30/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop30/1280/720"
+    },
+    {
+        "id": 31,
+        "title": "Code Zero",
+        "overview": "A cybersecurity prodigy races to stop a worldwide blackout.",
+        "release_date": "2024-05-11",
+        "vote_average": 8.0,
+        "runtime": 127,
+        "genres": [
+            "Tech",
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie31/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop31/1280/720"
+    },
+    {
+        "id": 32,
+        "title": "Kingdom Beneath",
+        "overview": "Archaeologists uncover an ancient civilization hidden underground.",
+        "release_date": "2021-09-18",
+        "vote_average": 7.7,
+        "runtime": 131,
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie32/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop32/1280/720"
+    },
+    {
+        "id": 33,
+        "title": "Paper Wings",
+        "overview": "A young artist dreams of becoming a world-famous animator.",
+        "release_date": "2020-06-05",
+        "vote_average": 7.1,
+        "runtime": 102,
+        "genres": [
+            "Animation",
+            "Family"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie33/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop33/1280/720"
+    },
+    {
+        "id": 34,
+        "title": "Stormbreak",
+        "overview": "Survivors struggle to rebuild after a devastating hurricane.",
+        "release_date": "2018-12-12",
+        "vote_average": 6.8,
+        "runtime": 109,
+        "genres": [
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie34/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop34/1280/720"
+    },
+    {
+        "id": 35,
+        "title": "Quantum Dreams",
+        "overview": "A physicist becomes trapped between multiple realities.",
+        "release_date": "2023-07-01",
+        "vote_average": 8.6,
+        "runtime": 142,
+        "genres": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie35/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop35/1280/720"
+    },
+    {
+        "id": 36,
+        "title": "Heart of Tokyo",
+        "overview": "A chef searches for inspiration while exploring Tokyo’s food scene.",
+        "release_date": "2022-11-19",
+        "vote_average": 7.4,
+        "runtime": 100,
+        "genres": [
+            "Drama",
+            "Food"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie36/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop36/1280/720"
+    },
+    {
+        "id": 37,
+        "title": "Blackout Mission",
+        "overview": "Special forces agents infiltrate a secret underground facility.",
+        "release_date": "2021-03-03",
+        "vote_average": 7.5,
+        "runtime": 123,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie37/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop37/1280/720"
+    },
+    {
+        "id": 38,
+        "title": "Dreamcatcher Lane",
+        "overview": "A child discovers a magical street where dreams come to life.",
+        "release_date": "2019-09-14",
+        "vote_average": 7.2,
+        "runtime": 97,
+        "genres": [
+            "Fantasy",
+            "Family"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie38/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop38/1280/720"
+    },
+    {
+        "id": 39,
+        "title": "Steel Horizon",
+        "overview": "Engineers aboard a floating city face a catastrophic system failure.",
+        "release_date": "2024-02-28",
+        "vote_average": 8.2,
+        "runtime": 136,
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie39/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop39/1280/720"
+    },
+    {
+        "id": 40,
+        "title": "The Painter's Secret",
+        "overview": "An art student uncovers clues hidden in a forgotten masterpiece.",
+        "release_date": "2020-08-21",
+        "vote_average": 7.3,
+        "runtime": 113,
+        "genres": [
+            "Mystery",
+            "Drama"
+        ],
+        "poster_url": "https://picsum.photos/seed/movie40/500/750",
+        "backdrop_url": "https://picsum.photos/seed/backdrop40/1280/720"
+    }
+]
